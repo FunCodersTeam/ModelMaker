@@ -4,7 +4,7 @@
 ```
 ### 帮助
 ```
-> python train.py -h
+> python trainer.py -h
 ```
 ### 开始使用
 ```
