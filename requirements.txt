@@ -1,0 +1,2 @@
+tensorflowjs==3.14.0
+tflite-model-maker==0.3.4
