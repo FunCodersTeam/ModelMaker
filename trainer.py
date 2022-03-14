@@ -8,7 +8,7 @@ from tflite_model_maker.image_classifier import DataLoader
 from tensorflowjs.converters import convert_tf_saved_model
 
 if __name__ == "__main__":
-    def str2bool(str): return False if str.lower() == 'false' else True
+    str2bool = lambda str : False if str.lower() == 'false' else True
     parser = argparse.ArgumentParser(description = 'model_maker')
     parser.add_argument('--input', type = str, default = "./", help = "input dataset path. default: ./")
     parser.add_argument('--output', type = str, default = './', help = 'output model path. default: ./')
