@@ -10,7 +10,8 @@
 ```
 > python trainer.py --input "D:\\dataset\\test"
 ```
-### 目录结构
+生成的tfjs_model/model.json、tfjs_model/group1-shard1of1.bin、labels.txt文件可以在智能车模拟器中导入测试
+### 数据集目录结构
 ```
 > tree
 └─test
