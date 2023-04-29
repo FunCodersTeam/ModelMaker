@@ -1,3 +1,4 @@
+<a href="https://app.codacy.com/gh/FunCodersTeam/ModelMaker/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade"><img src="https://app.codacy.com/project/badge/Grade/77c9118814a34d1cb958940276f77caa"/></a>
 ### 安装
 ```bash
 $ pip install -r requirements.txt -i https://pypi.mirrors.ustc.edu.cn/simple/
