@@ -1,4 +1,7 @@
 ### 安装
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c46fac3635c7478aacf3087077e1ac81)](https://app.codacy.com/gh/FunCodersTeam/ModelMaker?utm_source=github.com&utm_medium=referral&utm_content=FunCodersTeam/ModelMaker&utm_campaign=Badge_Grade)
+
 ```bash
 $ pip install -r requirements.txt -i https://pypi.mirrors.ustc.edu.cn/simple/
 ```
