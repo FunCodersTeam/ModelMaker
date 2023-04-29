@@ -1,19 +1,19 @@
 ### 安装
-```
-> pip install -r requirements.txt -i https://pypi.mirrors.ustc.edu.cn/simple/
+```bash
+$ pip install -r requirements.txt -i https://pypi.mirrors.ustc.edu.cn/simple/
 ```
 ### 帮助
-```
-> python trainer.py -h
+```bash
+$ python trainer.py -h
 ```
 ### 开始使用
+```bash
+$ python trainer.py --input "D:\\dataset\\test"
 ```
-> python trainer.py --input "D:\\dataset\\test"
-```
-生成的tfjs_model/model.json、tfjs_model/group1-shard1of1.bin、labels.txt文件可以在智能车模拟器中导入测试
+生成的 `tfjs_model/model.json`、`tfjs_model/group1-shard1of1.bin`、`labels.txt` 文件可以在<a href="https://github.com/FunCodersTeam/WebCarSim">智能车模拟器</a>中导入测试
 ### 数据集目录结构
-```
-> tree
+```bash
+$ tree
 └─test
     ├─榴莲
     ├─橙子
